@@ -13,5 +13,6 @@ This project involves a complex  analysis using window functions, subqueries, an
 - average monthly revenue
  ## SQL Query 
  -<a href= "https://github.com/NabobiA7/SQL-exploratory-data-analysis-project-/blob/main/DataWarehouseAnalytics.sql"> Query
-## Customer Report 
--<a href="
+## Report 
+-<a href="https://github.com/NabobiA7/SQL-exploratory-data-analysis-project-/blob/main/customer%20report.csv"> Customer Report
+(Download to get full view)
