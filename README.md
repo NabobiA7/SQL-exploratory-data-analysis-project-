@@ -7,7 +7,7 @@ This project involves a complex  analysis using window functions, subqueries, an
 - average order value
 - average monthly spend
 2. For Product Report
--Calculates valuable KPIs:
+-Calculate valuable KPIs:
 - recency (months since last sale)
 - average order revenue (AOR)
 - average monthly revenue
