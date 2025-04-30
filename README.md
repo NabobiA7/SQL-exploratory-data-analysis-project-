@@ -3,14 +3,14 @@ This project involves a complex  analysis using window functions, subqueries, an
 ## Questions
 1. For Customer Report
 -Calculate valuable KPIs:
-	  - recency (months since last order)
-		- average order value
-		- average monthly spend
+- recency (months since last order)
+- average order value
+- average monthly spend
 2. For Product Report
 - Calculates valuable KPIs:
-       - recency (months since last sale)
-       - average order revenue (AOR)
-       - average monthly revenue
+- recency (months since last sale)
+- average order revenue (AOR)
+- average monthly revenue
 
 
 
