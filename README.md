@@ -16,3 +16,5 @@ This project involves a complex  analysis using window functions, subqueries, an
 ## Report 
 -<a href="https://github.com/NabobiA7/SQL-exploratory-data-analysis-project-/blob/main/customer%20report.csv"> Customer Report
 (Download to get full view)
+-<a href= "https://github.com/NabobiA7/SQL-exploratory-data-analysis-project-/blob/main/product%20report.csv"> Product Report 
+(Download to get full view)
