@@ -12,5 +12,6 @@ This project involves a complex  analysis using window functions, subqueries, an
 - average order revenue (AOR)
 - average monthly revenue
 
+ 
 
 
